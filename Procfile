@@ -1,0 +1,1 @@
+web: gunicorn fetrisa_toy_app.wsgi
