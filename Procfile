@@ -1,1 +1,1 @@
-web: gunicorn fetrisa_toy_app.wsgi
+web: gunicorn fetrisa_toy.wsgi

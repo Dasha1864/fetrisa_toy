@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cef3edf1-8d37-460d-b1cc-721580c4b6ec" name="Default Changelist" comment="" />
+    <list default="true" id="cef3edf1-8d37-460d-b1cc-721580c4b6ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fetrisa_toy_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/fetrisa_toy_app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fetrisa_toy_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/fetrisa_toy_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/templates/1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/22.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/24.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/25.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/26.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/27.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/27.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/28.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/28.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/29.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/29.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/30.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/30.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/31.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/31.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/32.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/32.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/33.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/33.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/34.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/34.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/35.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/35.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/36.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/36.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/37.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/37.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/38.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/38.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/39.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/39.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/40.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/40.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/41.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/41.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/42.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/42.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/43.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/43.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/43_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/43_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/44.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/44.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/45.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/45.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/46.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/46.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/47.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/47.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/9.jpg" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/1.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="68" column="116" selection-start-line="68" selection-start-column="116" selection-end-line="68" selection-end-column="116" />
+            <state relative-caret-position="255">
+              <caret line="69" column="58" selection-start-line="69" selection-start-column="58" selection-end-line="69" selection-end-column="58" />
               <folding>
                 <element signature="e#931#938#1" expanded="true" />
                 <element signature="e#1521#1527#1" expanded="true" />
@@ -25,11 +76,31 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../untitled1/venv/Scripts/django-admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fitrisa_toy/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1770">
-              <caret line="122" column="53" lean-forward="true" selection-start-line="122" selection-start-column="53" selection-end-line="122" selection-end-column="53" />
+            <state relative-caret-position="366">
+              <caret line="116" selection-start-line="116" selection-end-line="116" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fitrisa_toy/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#227#236#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,8 +108,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fetrisa_toy_app/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="153">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="18" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -49,8 +120,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fetrisa_toy_app/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="323">
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -64,20 +135,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -99,15 +161,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="457">
               <caret line="128" selection-start-line="128" selection-end-line="128" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/6.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="70" selection-start-line="3" selection-start-column="70" selection-end-line="3" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -137,14 +190,14 @@
         <option value="$PROJECT_DIR$/templates/4.html" />
         <option value="$PROJECT_DIR$/templates/6.css" />
         <option value="$PROJECT_DIR$/templates/6.html" />
-        <option value="$PROJECT_DIR$/fitrisa_toy/settings.py" />
-        <option value="$PROJECT_DIR$/fetrisa_toy_app/views.py" />
         <option value="$PROJECT_DIR$/templates/2.html" />
         <option value="$PROJECT_DIR$/templates/hy.html" />
-        <option value="$PROJECT_DIR$/fetrisa_toy_app/urls.py" />
         <option value="$PROJECT_DIR$/static/1.css" />
-        <option value="$PROJECT_DIR$/templates/1.htm" />
         <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/fitrisa_toy/settings.py" />
+        <option value="$PROJECT_DIR$/fetrisa_toy_app/urls.py" />
+        <option value="$PROJECT_DIR$/fetrisa_toy_app/views.py" />
+        <option value="$PROJECT_DIR$/templates/1.htm" />
         <option value="$PROJECT_DIR$/Procfile" />
       </list>
     </option>
@@ -180,6 +233,16 @@
               <item name="fitrisa_toy" type="b2602c69:ProjectViewProjectNode" />
               <item name="fitrisa_toy" type="462c0819:PsiDirectoryNode" />
               <item name="fetrisa_toy_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fitrisa_toy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fitrisa_toy" type="462c0819:PsiDirectoryNode" />
+              <item name="fitrisa_toy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fitrisa_toy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fitrisa_toy" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -310,9 +373,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fitrisa_toy/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="461">
@@ -365,10 +425,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../untitled1/venv/Scripts/django-admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetrisa_toy_app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetrisa_toy_app/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/1.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="68" column="116" selection-start-line="68" selection-start-column="116" selection-end-line="68" selection-end-column="116" />
+        <state relative-caret-position="255">
+          <caret line="69" column="58" selection-start-line="69" selection-start-column="58" selection-end-line="69" selection-end-column="58" />
           <folding>
             <element signature="e#931#938#1" expanded="true" />
             <element signature="e#1521#1527#1" expanded="true" />
@@ -378,41 +469,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fetrisa_toy_app/urls.py">
+    <entry file="file://$PROJECT_DIR$/fitrisa_toy/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="366">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitrisa_toy/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#227#236#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fetrisa_toy_app/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fitrisa_toy/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1770">
-          <caret line="122" column="53" lean-forward="true" selection-start-line="122" selection-start-column="53" selection-end-line="122" selection-end-column="53" />
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
