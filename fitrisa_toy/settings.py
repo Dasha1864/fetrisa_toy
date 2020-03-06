@@ -25,7 +25,7 @@ SECRET_KEY = '#u_soan-ps_cf)g5peo_ra_6zt^*_@0m=q8(&%r#*zx8yowt=8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['fetrisa-toy.herokuapp.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition

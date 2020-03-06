@@ -72,15 +72,15 @@ cursor: pointer;
     src="{% static '1.jpg'%}" alt="Упс"
     width="200"
     height="200"
-        class="right"
 >
 </div>
 <div id="io"><img
     src="{% static '2.jpg'%}" alt="Упс"
     width="100%"
     height="200"
-        class="right"
 >
+</div>
+
     <!— The Modal —>
 
 <div id="iq"><img
@@ -90,11 +90,10 @@ cursor: pointer;
         class="right"
 >
 </div>
-<div id="iw"><img
+<div id="iw" style="position:absolute;top: 45%;left: 73%;"><img
     src="{% static '4.jpg'%}" alt="Упс"
     width="200"
     height="200"
-        class="right"
 >
 </div>
 <div id="ie"><img
@@ -209,8 +208,11 @@ cursor: pointer;
         class="right"
 >
 </div>
+<script>
+    var data = {{ data }};
+</script>
     <script>
-// Get the modal
+
 var modal = document.getElementById("myModal");
 
 // Get the button that opens the modal
@@ -235,6 +237,10 @@ if (event.target === modal) {
 modal.style.display = "none";
 }
 }
+
+
+
 </script>
+
 </body>
 </html>
