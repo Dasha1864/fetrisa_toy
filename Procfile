@@ -1,1 +1,1 @@
-web: gunicorn fetrisa_toy.wsgi
+web: gunicorn fitrisa_toy.wsgi
