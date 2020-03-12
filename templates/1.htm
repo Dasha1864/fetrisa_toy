@@ -43,7 +43,10 @@ text-decoration: none;
 cursor: pointer;
 }
 body {
-  background-image: {% static '43_2.jpg'%};
+  background-image: url({% static '43_2.jpg'%});
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
 }
 </style>
 
