@@ -1,9 +1,14 @@
 from django.shortcuts import render
-
+import json
 # Create your views here.
 
 def menu(request):
-    return render(request, '1.htm', {'data': [123, 456]})
+    so = {}
+    for i in range(10):
+        so[i] = i+10
+    so = json.dumps(so)
+    so = json.loads(so)
+    return render(request, '1.htm', {'data': so})
 
 def toys(request):
     return render(request, '2.html')
