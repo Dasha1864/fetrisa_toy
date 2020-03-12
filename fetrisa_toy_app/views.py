@@ -7,8 +7,8 @@ def menu(request):
     for i in range(10):
         so[i] = i+10
     so = json.dumps(so)
-    so = json.loads(so)
-    return render(request, '1.htm', {'data': so})
+    data = json.loads(so)
+    return render(request, '1.htm', {'data': data})
 
 def toys(request):
     return render(request, '2.html')
