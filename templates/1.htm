@@ -217,7 +217,7 @@ body {
 
 function info(cost){
 // Get the modal
-var data = {{ data }};
+var data =  JSON.parse('{{ data | escapejs }}');
 console.log(data);
 var modal = document.getElementById("myModal");
 // Get the <span> element that closes the modal

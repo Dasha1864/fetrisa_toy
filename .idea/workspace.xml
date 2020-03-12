@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cef3edf1-8d37-460d-b1cc-721580c4b6ec" name="Default Changelist" comment="" />
+    <list default="true" id="cef3edf1-8d37-460d-b1cc-721580c4b6ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/fetrisa_toy_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/fetrisa_toy_app/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581687449605</updated>
-      <workItem from="1584045884481" duration="1398000" />
+      <workItem from="1584045884481" duration="1790000" />
     </task>
     <servers />
   </component>
