@@ -6,7 +6,7 @@ import json
 def menu(request):
 
     data = []
-    file = io.open(r"C:\Users\Денис\PycharmProjects\fitrisa_toy\fetrisa_toy_app\data.txt", "r", encoding='utf-8')
+    file = io.open(r"data.txt", "r", encoding='utf-8')
     file_data = []
     for row in file:
         file_data.append(row.replace("\n", "").split("; "))
