@@ -42,6 +42,12 @@ color: #000;
 text-decoration: none;
 cursor: pointer;
 }
+body {
+  background-image: url({% static '43_2.jpg'%});
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
 </style>
 
 
@@ -56,176 +62,171 @@ cursor: pointer;
 <!— Modal content —>
 <div class="modal-content">
 <span class="close">&times;</span>
-<p>Цена: 1000000000 руб.</p>
+<p id='cost'>Цена: 1000000000 руб.</p>
 </div>
 </div>
 
 
-<div id="ew"><img
-    src="{% static '43_2.jpg'%}" alt="Упс"
-    height="1560"
-    width="1360"
-></div>
+<div id="ew" >
 <div id="rt">&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/fetrisa_toy?igshid=rp0gjgtqcgcb">Меню</a> <a href="toys/">Игрушки</a> <a href="sets/">Наборы</a> <a href="stocks/">
-    Акции</a> <a href="process/">Процесс</a> <a href="ets/">Отсальное</a> <a href="Заказать">Заказать</a>&nbsp;</div>
-<div id="er"><img
-    src="{% static '1.jpg'%}" alt="Упс"
-    width="200"
-    height="200"
->
-</div>
-<div id="io"><img
-    src="{% static '2.jpg'%}" alt="Упс"
-    width="100%"
-    height="200"
->
-</div>
-
-    <!— The Modal —>
-
-<div id="iq"><img
-    src="{% static '3.jpg'%}" alt="Упс"
+    Акции</a> <a href="process/">Процесс</a> <a href="ets/">Отсальное</a> <a href="Заказать">Заказать</a>&nbsp;<span onclick="sorted()"> Сортировка  </span></div>
+<div id="imgs">
+    <div id="er"><img
+    src="{% static '1.jpg'%}" alt="Упс" onclick="info('1000 рублей')"
     width="200"
     height="200"
         class="right"
 >
 </div>
-<div id="iw" style="position:absolute;top: 45%;left: 73%;"><img
-    src="{% static '4.jpg'%}" alt="Упс"
+<div id="io"><img
+    src="{% static '2.jpg'%}" alt="Упс" onclick="info('1100 рублей')"
     width="200"
     height="200"
+        class="right"
+>
+    <!— The Modal —>
+</div>
+<div id="iq"><img
+    src="{% static '3.jpg'%}" alt="Упс" onclick="info('1200 рублей')"
+    width="200"
+    height="200"
+        class="right"
+>
+</div>
+<div id="iw"><img
+    src="{% static '4.jpg'%}" alt="Упс" onclick="info('900 рублей')"
+    width="200"
+    height="200"
+        class="right"
 >
 </div>
 <div id="ie"><img
-    src="{% static '5.jpg'%}" alt="Упс"
+    src="{% static '5.jpg'%}" alt="Упс" onclick="info('800 рублей')"
     width="200"
     height="200"
         class="right"
 >
 </div>
 <div id="ir"><img
-    src="{% static '6.jpg'%}" alt="Упс"
+    src="{% static '6.jpg'%}" alt="Упс" onclick="info('1500 рублей')"
     width="200"
     height="200"
         class="right"
 >
 </div>
 <div id="it"><img
-    src="{% static '7.jpg'%}" alt="Упс"
+    src="{% static '7.jpg'%}" alt="Упс" onclick="info('1200 рублей')"
     width="200"
     height="200"
         class="right"
 >
 </div>
 <div id="iy"><img
-    src="{% static '8.jpg'%}" alt="Упс"
+    src="{% static '8.jpg'%}" alt="Упс" onclick="info('1000 рублей')"
     width="200"
     height="200"
         class="right"
 >
 </div>
 <div id="iu"><img
-    src="{% static '9.jpg'%}" alt="Упс"
+    src="{% static '9.jpg'%}" alt="Упс" onclick="info('500 рублей')"
     width="200"
     height="200"
         class="right"
 >
 </div>
 <div id="ii"><img
-    src="{% static '10.jpg'%}" alt="Упс"
+    src="{% static '10.jpg'%}" alt="Упс" onclick="info('800 рублей')"
     width="200"
     height="200"
         class="right"
 >
 </div>
 <div id="ip"><img
-    src="{% static '11.jpg'%}" alt="Упс"
+    src="{% static '11.jpg'%}" alt="Упс" onclick="info('2000 рублей')"
     width="200"
     height="200"
         class="right"
 >
 </div>
 <div id="ia"><img
-    src="{% static '12.jpg'%}" alt="Упс"
+    src="{% static '12.jpg'%}" alt="Упс" onclick="info('390 рублей')"
     width="200"
     height="200"
         class="right"
 >
 </div>
 <div id="is"><img
-    src="{% static '13.jpg'%}" alt="Упс"
+    src="{% static '13.jpg'%}" alt="Упс" onclick="info('600 рублей')"
     width="200"
     height="200"
         class="right"
 >
 </div>
 <div id="id"><img
-    src="{% static '14.jpg'%}" alt="Упс"
+    src="{% static '14.jpg'%}" alt="Упс" onclick="info('1000 рублей')"
     width="200"
     height="200"
         class="right"
 >
 </div>
 <div id="if"><img
-    src="{% static '15.jpg'%}" alt="Упс"
+    src="{% static '15.jpg'%}" alt="Упс" onclick="info('900 рублей')"
     width="200"
     height="200"
         class="right"
 >
 </div>
 <div id="ig"><img
-    src="{% static '16.jpg'%}" alt="Упс"
+    src="{% static '16.jpg'%}" alt="Упс" onclick="info('1000 рублей')"
     width="200"
     height="200"
         class="right"
 >
 </div>
 <div id="ih"><img
-    src="{% static '17.jpg'%}" alt="Упс"
+    src="{% static '17.jpg'%}" alt="Упс" onclick="info('2000 рублей')"
     width="200"
     height="200"
         class="right"
 >
 </div>
 <div id="ij"><img
-    src="{% static '18.jpg'%}" alt="Упс"
+    src="{% static '18.jpg'%}" alt="Упс" onclick="info('800 рублей')"
     width="200"
     height="200"
         class="right"
 >
 </div>
 <div id="ik"><img
-    src="{% static '19.jpg'%}" alt="Упс"
+    src="{% static '19.jpg'%}" alt="Упс" onclick="info('1100 рублей')"
     width="200"
     height="200"
         class="right"
 >
 </div>
 <div id="il"><img
-    src="{% static '20.jpg'%}" alt="Упс"
+    src="{% static '20.jpg'%}" alt="Упс" onclick="info('1500 рублей')"
     width="200"
     height="200"
         class="right"
 >
 </div>
-<script>
-    var data = {{ data }};
-</script>
+</div>
+</div>
     <script>
 
+function info(cost){
+// Get the modal
+var data =  JSON.parse('{{ data | escapejs }}');
+console.log(data);
 var modal = document.getElementById("myModal");
-
-// Get the button that opens the modal
-var btn = document.getElementById("er");
-
 // Get the <span> element that closes the modal
 var span = document.getElementsByClassName("close")[0];
 
 // When the user clicks the button, open the modal
-btn.onclick = function() {
 modal.style.display = "block";
-};
-
+document.getElementById("cost").innerHTML = cost;
 // When the user clicks on <span> (x), close the modal
 span.onclick = function() {
 modal.style.display = "none";
@@ -237,10 +238,20 @@ if (event.target === modal) {
 modal.style.display = "none";
 }
 }
-
-
-
+}
 </script>
-
+<script>
+function sorted(){
+var data = JSON.parse('{{ data | escapejs }}');
+console.log(data);
+var imgs = document.getElementById("imgs");
+var ids = ["er", "io", "iq", "iw", "ie", "ir", "it", "iy", "iu", "ii", "ip", "ia", "is", "id", "if", "ig", "ih", "ij", "ik", "il"]
+for(i = 0; i<ids.length; i++) {
+    document.getElementById(ids[i]).innerHTML = <img +
+    src="{% static '$pic'%}" alt="Упс" onclick="info('$2')".replace('$pic', data[i][4]).replace('$2', data[i][1] + ' рублей') +
+    width="200" +
+    height="200">
+    }
+</script>
 </body>
 </html>
