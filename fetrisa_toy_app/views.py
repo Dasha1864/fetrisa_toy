@@ -1,13 +1,10 @@
 from django.shortcuts import render
-<<<<<<< HEAD
 import io
-=======
->>>>>>> c1c4e66e205e315f215949c57a6f3a7444012473
 import json
 # Create your views here.
 
 def menu(request):
-<<<<<<< HEAD
+
     data = []
     file = io.open(r"C:\Users\Денис\PycharmProjects\fitrisa_toy\fetrisa_toy_app\data.txt", "r", encoding='utf-8')
     file_data = []
@@ -23,13 +20,13 @@ def menu(request):
         data.append(file_data[c])
         file_data.pop(c)
     return render(request, '1.htm', {"data": data})
-=======
+
     so = {}
     for i in range(10):
         so[i] = i+10
     so = json.dumps(so)
     return render(request, '1.htm', {'data': so})
->>>>>>> c1c4e66e205e315f215949c57a6f3a7444012473
+
 
 def toys(request):
     return render(request, '2.html')
